@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @msnajib
+- 👋 Hi, I’m @najeeb
 - 👀 I’m interested in everything about design and code
 
 <!---
